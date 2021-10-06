@@ -1,0 +1,8 @@
+saves
+pretrained
+.idea
+.DS_Store
+*__pycache__*
+*.pyc
+.out
+.err
