@@ -1,4 +1,4 @@
-# SimTrans
+# SimTrans-Weak-Shot-Classification
 
 This repository contains the official PyTorch implementation of the following paper:
 
