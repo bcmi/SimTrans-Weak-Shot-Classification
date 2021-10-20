@@ -74,6 +74,8 @@ Just employ `--data_path ANY_PATH/CUB` to specify the data dir.
 ### 4.2 Install 
 See `requirement.txt`.
 
+The proposed approach is implemented in Python 3.7.4 and Pytorch 1.0.1, on Ubuntu 18.04 with 32 GB Intel 9700K CPU and two NVIDIA 2080ti GPUs.
+
 ### 4.3 Evaluation
 The trained models are released as `trained_models.zip` at [Baidu Cloud](https://pan.baidu.com/s/1Zz-3DBdk_XRYjydApABQoQ) (access code: BCMI).
 
