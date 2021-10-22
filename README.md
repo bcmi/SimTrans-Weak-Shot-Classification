@@ -47,7 +47,7 @@ For qualitative analysis, on the one hand, the clean images are assigned with hi
 ## 4. Experiment Codebase
 
 ### 4.1 Data
-We provide the packages of CUB, Car, FGVC, and WebVision at [Baidu Cloud](https://pan.baidu.com/s/1Zz-3DBdk_XRYjydApABQoQ) (access code: BCMI) or [JBox](https://jbox.sjtu.edu.cn/l/6FDcYJ) (access code: BCMI). 
+We provide the packages of CUB, Car, FGVC, and WebVision at [Baidu Cloud](https://pan.baidu.com/s/1Zz-3DBdk_XRYjydApABQoQ), [JBox](https://jbox.sjtu.edu.cn/l/6FDcYJ), or [BCMI Cloud](https://cloud.bcmi.sjtu.edu.cn/sharing/JtlKZwy1y) (access code: BCMI). 
 
 The original packages are split by `split -b 10G ../CUB.zip CUB.zip.`, thus we need merge by `cat CUB.zip.a* > CUB.zip` before decompression.
 
