@@ -86,6 +86,10 @@ We provide the full scripts for CUB dataset in `_scripts/CUB/` dir as an example
 
 For other datasets, just change the data path, i.e., `--data_path ANY_PATH/WebVision`.
 
+## Resources
+
+We have summarized the existing papers and codes on weak-shot learning in the following repository:
+[https://github.com/bcmi/Awesome-Weak-Shot-Learning](https://github.com/bcmi/Awesome-Weak-Shot-Learning)
 
 ## Bibtex
 If you find this work is useful for your research, please cite our paper using the following **BibTeX  [[pdf]()] [[supp]()] [[arxiv](https://arxiv.org/abs/2009.09197)]:**
